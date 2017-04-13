@@ -1,0 +1,13 @@
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Release\GifRecordTool.exe
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Release\GifRecordTool.pdb
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Release\GIFRecorder.dll
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Release\GIFRecorder.pdb
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.csprojResolveAssemblyReference.cache
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.Form1.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.FrmHwnd.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.FrmPre.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.FrmRect.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.Properties.Resources.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.csproj.GenerateResource.Cache
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.exe
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Release\GifRecordTool.pdb

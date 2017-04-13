@@ -1,0 +1,26 @@
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Debug\GifRecordTool.exe
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Debug\GifRecordTool.pdb
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.dll
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.pdb
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Properties.Resources.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csproj.GenerateResource.Cache
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.exe
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.pdb
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Form1.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csprojResolveAssemblyReference.cache
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmRect.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmHwnd.resources
+d:\users\nemo\documents\visual studio 2012\Projects\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmPre.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.exe
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.pdb
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GifRecordTool.exe
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GifRecordTool.pdb
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.dll
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\bin\Debug\GIFRecorder.pdb
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csprojResolveAssemblyReference.cache
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Form1.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmHwnd.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmPre.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.FrmRect.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.Properties.Resources.resources
+C:\Users\xydong\Downloads\GIFRecorder\GIFRecorder\GifRecordTool\obj\Debug\GifRecordTool.csproj.GenerateResource.Cache
